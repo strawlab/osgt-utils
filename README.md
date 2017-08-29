@@ -8,6 +8,7 @@ On Ubuntu:
 
     sudo apt-get install cmake libopenscenegraph-dev
     mkdir build
+    cd build
     cmake ..
     make
 
